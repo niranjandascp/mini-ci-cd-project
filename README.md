@@ -1,2 +1,0 @@
-# mini-ci-cd-project
-!!!!
